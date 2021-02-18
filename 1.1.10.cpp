@@ -23,8 +23,8 @@ int main()
 		cout << "r не можe бути 0";
 	}
 	else{
-	if (b == 0) {
-		if (a == 0) {
+	if (b == 0.0) {
+		if (a == 0.0) {
 			cout << "a і b неможуть бути 0";
 		}
 		else {
